@@ -6,11 +6,11 @@
 
 <div align="center">
 
-## 👋 Salut! Eu sunt Moongetsu
+## 👋 Salut! Eu sunt Rudy
 
 🧠 Pasionat de programare  
 📚 Învăț zilnic **JavaScript** și **Python**  
-🚀 Deschis pentru colaborări & proiecte  
+🚀 Disponibil pentru colaborări & proiecte  
 
 </div>
 
@@ -26,7 +26,7 @@ Sunt un developer la început de drum, curios și motivat,
 
 🎂 **Născut:** 11 Noiembrie 2010  
 🌍 **Locație:** România 🇷🇴  
-🗣️ **Limbi:** Română, Engleză  
+🗣️ **Limbi:** Română  
 
 </div>
 
@@ -36,10 +36,10 @@ Sunt un developer la început de drum, curios și motivat,
 
 ### 📬 Contact
 
-<a href="https://discord.com/users/977190163736322088" target="_blank">
+<a href="https://discord.com/users/1360222704380411985" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="40"/>
 </a>
-<a href="mailto:moongetsu2@gmail.com" target="_blank">
+<a href="mailto:rudybyteshield@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40"/>
 </a>
 
@@ -52,12 +52,12 @@ Sunt un developer la început de drum, curios și motivat,
 <div align="center">
 
 #### 💻 Limbaje
-<img src="https://skillicons.dev/icons?i=js,python,html,css&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python&perline=4&theme=dark" />
 
 <br/>
 
 #### ⚙️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,vscode&perline=4&theme=dark" />
 
 </div>
 
