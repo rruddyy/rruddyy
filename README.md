@@ -1,3 +1,3 @@
-## Hi there 👋
+## About Me
 
 <div align="center">
