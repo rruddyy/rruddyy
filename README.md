@@ -9,7 +9,7 @@
 ## 👋 Salut! Eu sunt Rudy
 
 🧠 Pasionat de programare  
-📚 Învăț zilnic **JavaScript** și **Python**  
+📚 Învăț zilnic **JavaScript** & **SourcePawn** și **Python**  
 🚀 Disponibil pentru colaborări & proiecte  
 
 </div>
@@ -52,7 +52,7 @@ Sunt un developer la început de drum, curios și motivat,
 <div align="center">
 
 #### 💻 Limbaje
-<img src="https://skillicons.dev/icons?i=js,python&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,python,sp&perline=4&theme=dark" />
 
 <br/>
 
