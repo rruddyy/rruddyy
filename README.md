@@ -1,21 +1,18 @@
 # 💫 About Me:
-👋 Hi! I'm Rudy  <br>🧠 Passionate about programming and technology  <br>💻 Currently learning JavaScript, Python, and SourcePawn  <br>🚀 I enjoy building useful projects and improving every day  <br><br>📍 Based in Romania 🇷🇴  <br>🎂 Born on November 11, 2010  <br>🤝 Open to small projects and collaborations<br>
+* 🔭 I’m currently working on **Game Server Plugins and Backend Systems**<br>* 👯 I’m looking to collaborate on **Open Source Tools and Gaming Frameworks**<br>* 🤝 I’m looking for help with **Advanced Golang Concurrency & System Design**<br>* 🌱 I’m currently learning **JavaScript, Python, Go, and SourcePawn**<br>* 💬 Ask me about **CS:GO/CS2 Modding, Scripting, and Automation**<br>* ⚡ Fun fact: **I can debug code in my head, but I still need coffee to compile it.**
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7zgKZeJrQH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudywee) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elitegaming) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudyweee) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rruddyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rruddyy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rruddyy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=rruddyy&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
