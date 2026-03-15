@@ -1,7 +1,8 @@
 # 💫 About Me:
 * 🔭 I’m currently working on **Game Server Plugins and Backend Systems**<br>* 👯 I’m looking to collaborate on **Open Source Tools and Gaming Frameworks**<br>* 🤝 I’m looking for help with **Advanced Golang Concurrency & System Design**<br>* 🌱 I’m currently learning **JavaScript, Python, Go, and SourcePawn**<br>* 💬 Ask me about **CS:GO/CS2 Modding, Scripting, and Automation**<br>* ⚡ Fun fact: **I can debug code in my head, but I still need coffee to compile it.**
 
-![Discord](https://discord.com/users/1360222704380411985<br/>
+# 🎮 Discord Status
+[![Discord Presence](https://lanyard.vercel.app/api/1360222704380411985)](https://discord.com/users/1360222704380411985)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elitegaming) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rudyweee) 
