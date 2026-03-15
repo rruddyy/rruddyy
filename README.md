@@ -1,5 +1,10 @@
 # 💫 About Me:
-* 🔭 I’m currently working on **Game Server Plugins and Backend Systems**<br>* 👯 I’m looking to collaborate on **Open Source Tools and Gaming Frameworks**<br>* 🤝 I’m looking for help with **Advanced Golang Concurrency & System Design**<br>* 🌱 I’m currently learning **JavaScript, Python, Go, and SourcePawn**<br>* 💬 Ask me about **CS:GO/CS2 Modding, Scripting, and Automation**<br>* ⚡ Fun fact: **I can debug code in my head, but I still need coffee to compile it.**
+* 🔭 I’m currently working on **Game Server Plugins and Backend Systems**<br>
+* 👯 I’m looking to collaborate on **Open Source Tools and Gaming Frameworks**<br>
+* 🤝 I’m looking for help with **Advanced Golang Concurrency & System Design**<br>
+* 🌱 I’m currently learning **JavaScript, Python, Go, and SourcePawn**<br>
+* 💬 Ask me about **CS:GO/CS2 Modding, Scripting, and Automation**<br>
+* ⚡ Fun fact: **I can debug code in my head, but I still need coffee to compile it.**
 
 <table align="center">
   <tr>
