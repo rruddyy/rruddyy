@@ -12,5 +12,5 @@ I'm currently working for Downtown Roleplay, a RageMP Server.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rruddyy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Profile Views](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frruddyy&label=PROFILE%20VIEWS&icon=github&color=%230d6efd&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=rruddyy&color=7C3138&style=flat-square) 
 
